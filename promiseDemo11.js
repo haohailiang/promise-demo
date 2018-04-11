@@ -1,4 +1,4 @@
-var loopCount = 1e9;
+var loopCount = 1e9; // 根据浏览器的性能来设置延迟的时间
 
 function doSomething() {
 	for(var i=0; i<loopCount; i++){}
