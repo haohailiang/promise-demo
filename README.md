@@ -37,4 +37,4 @@ new Promise(
 * 有任何一个失败,该Promise失败,返回的是第一个失败的Promise的值
 [We have a problem with promises](https://div.io/topic/1095)
 
-deferred-05是Promise的好方法[隐式调用]
+[deferred-05](./deferred-05.js)是Promise的好方法[隐式调用]
