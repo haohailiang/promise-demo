@@ -36,3 +36,5 @@ new Promise(
 * 所有子Promise完成,该Promise才完成,返回的值是全部值的数组
 * 有任何一个失败,该Promise失败,返回的是第一个失败的Promise的值
 [We have a problem with promises](https://div.io/topic/1095)
+
+deferred-05是Promise的好方法[隐式调用]
